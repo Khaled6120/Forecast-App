@@ -6,5 +6,5 @@ This project designed using:
 1. HTML-5
 2. CSS-3
 3. JS
-4.[OpenWeather](https://openweathermap.org/).
+4. [OpenWeather](https://openweathermap.org/).
 
