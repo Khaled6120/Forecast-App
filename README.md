@@ -8,10 +8,8 @@ This project designed using:
 3. JS
 4. [OpenWeather](https://openweathermap.org/).
 
-###
+### Demo
 live: (https://khaled6120.github.io/Forecast-App/)
 
-
-![Untitled design (3)](https://user-images.githubusercontent.com/86200305/219900194-62eb96e4-dfff-47ea-aa70-443bd0a875bc.png)
-
-
+#### Main Screens
+![Untitled design (4)](https://user-images.githubusercontent.com/86200305/219900278-59af7efb-5977-42b8-9eff-b4ee70581801.png)
